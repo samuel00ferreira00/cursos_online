@@ -142,7 +142,7 @@ mysql -u usuario -p banco_de_dados < script.sql
 
 | 📧 Email            | 🔗 LinkedIn                        | 🐱 GitHub                       |
 |---------------------|----------------------------------|--------------------------------|
-| email@exemplo.com   | [linkedin.com/in/seunome](https://linkedin.com/in/seunome) | [github.com/seunome](https://github.com/seunome) |
+| samuelferreira1ssf1@icloud.com  | [linkedin.com/in/seunome](https://linkedin.com/in/seunome) | [github.com/seunome](https://github.com/samuel00ferreira00) |
 
 ---
 
